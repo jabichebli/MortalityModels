@@ -4,7 +4,7 @@ Created by **Jason Abi Chebli**
 © 2025 Jason Abi Chebli. All rights reserved.
 
 ## Description
-<div style="text-align: justify;">This project applies advanced machine learning techniques to the MIMIC-III clinical dataset to predict ICU patient mortality. The goal was to model the <code>HOSPITAL_EXPIRE_FLAG</code> — an indicator of death during hospital stay — using features collected at ICU admission, including vitals, demographics, comorbidities, and diagnostic codes. I implemented multiple supervised learning algorithms, evaluated their performance using AUC-ROC, and explored the data to understand key predictors and patterns underlying ICU outcomes. The project was conducted as part of a Monash University unit and hosted on Kaggle for leaderboard evaluation.</div>
+<div style="text-align: justify;">This project applies advanced machine learning techniques to the MIMIC-III clinical dataset to predict ICU patient mortality. The goal was to model the <code>HOSPITAL_EXPIRE_FLAG</code> — an indicator of death during hospital stay — using features collected at ICU admission, including vitals, demographics, comorbidities, and diagnostic codes. I implemented multiple supervised learning algorithms, evaluated their performance using AUC-ROC, and explored the data to understand key predictors and patterns underlying ICU outcomes.</div>
 
 ## Data Source
 [MIMIC-III Database]()
