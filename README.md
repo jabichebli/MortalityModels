@@ -57,4 +57,4 @@ Final feature matrix size: 37,080 × 7,037
 - Use of secondary ICD9 codes for comorbidity features
 
 ## Feedback
-If you have any questions, suggestions, or feedback, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve my understanding of ML.
+If you have any questions, suggestions, or feedback, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact/). Your input is valuable and will help improve my understanding of ML.
