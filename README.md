@@ -25,7 +25,6 @@ Final feature matrix size: 37,080 × 7,037
 
 ## Models and Performance
 ### Logistic Regression
-- In-Sample AUC-ROC: 1.000
 - Out-of-Sample AUC-ROC: 0.629
 - A baseline linear model with limited predictive power.
 
